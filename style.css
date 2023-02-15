@@ -4,3 +4,10 @@
   position: absolute; /* Break it out of the regular flow */
   top: 0; left: 0; bottom: 0; right: 0; /* Set the bounds in which to center it, relative to its parent/container */
 }
+div {
+  text-align: right;
+  padding: 5 5 0 0;
+  font-family: 'arial', sans-serif;
+  font-size: normal;
+  color: #333;
+}
